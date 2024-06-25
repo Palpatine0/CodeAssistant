@@ -78,7 +78,7 @@ First, let's set up the environment and install necessary dependencies.
 #### 1. LangServe Setup
 
 Set up LangServe to manage our application deployment.
-Use the LangServe CLI to create a new application called `pinecone-serverless`.
+Use the LangServe CLI to create a new application called `code-assistant`.
 
 ```bash
 langchain app new code-assistant
